@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "hibernate.dialect",
+      "type": "org.hibernate.dialect.AbstractTransactSQLDialect",
+      "description": "Description for hibernate.dialect."
+    },
+    {
+      "name": "zenoton.MovieDataFetcher",
+      "type": "com.zenoton.MoviePersonDB.movie.MovieDataFetcher",
+      "description": "Description for zenoton.MovieDataFetcher."
+    },
+    {
+      "name": "zenoton.APIKey",
+      "type": "java.lang.String",
+      "description": "Description for zenoton.APIKey."
+    },
+    {
+      "name": "zenoton.region",
+      "type": "java.lang.String",
+      "description": "Description for zenoton.region."
+    }
+  ] }
